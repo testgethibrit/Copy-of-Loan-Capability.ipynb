@@ -1,0 +1,100 @@
+0.0,Verified,Apr-2016,Fully Paid,debt_consolidation,Debt consolidation,11.75,Aug-1994,7.0,0.0,8205.0,93.2,18.0,w,INDIVIDUAL,6.0,0.0,"84009 David Stream
+South Nicolehaven, IL 05113"loan_amnt,term,int_rate,installment,grade,sub_grade,emp_title,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,purpose,title,dti,earliest_cr_line,open_acc,pub_rec,revol_bal,revol_util,total_acc,initial_list_status,application_type,mort_acc,pub_rec_bankruptcies,address
+10000.0, 36 months,11.44,329.48,B,B4,Marketing,10+ years,RENT,117000.0,Not Verified,Jan-2015,Fully Paid,vacation,Vacation,26.24,Jun-1990,16.0,0.0,36369.0,41.8,25.0,w,INDIVIDUAL,0.0,0.0,"0174 Michelle Gateway
+Mendozaberg, OK 22690"
+8000.0, 36 months,11.99,265.68,B,B5,Credit analyst ,4 years,MORTGAGE,65000.0,Not Verified,Jan-2015,Fully Paid,debt_consolidation,Debt consolidation,22.05,Jul-2004,17.0,0.0,20131.0,53.3,27.0,f,INDIVIDUAL,3.0,0.0,"1076 Carney Fort Apt. 347
+Loganmouth, SD 05113"
+15600.0, 36 months,10.49,506.97,B,B3,Statistician,< 1 year,RENT,43057.0,Source Verified,Jan-2015,Fully Paid,credit_card,Credit card refinancing,12.79,Aug-2007,13.0,0.0,11987.0,92.2,26.0,f,INDIVIDUAL,0.0,0.0,"87025 Mark Dale Apt. 269
+New Sabrina, WV 05113"
+7200.0, 36 months,6.49,220.65,A,A2,Client Advocate,6 years,RENT,54000.0,Not Verified,Nov-2014,Fully Paid,credit_card,Credit card refinancing,2.6,Sep-2006,6.0,0.0,5472.0,21.5,13.0,f,INDIVIDUAL,0.0,0.0,"823 Reid Ford
+Delacruzside, MA 00813"
+24375.0, 60 months,17.27,609.33,C,C5,Destiny Management Inc.,9 years,MORTGAGE,55000.0,Verified,Apr-2013,Charged Off,credit_card,Credit Card Refinance,33.95,Mar-1999,13.0,0.0,24584.0,69.8,43.0,f,INDIVIDUAL,1.0,0.0,"679 Luna Roads
+Greggshire, VA 11650"
+20000.0, 36 months,13.33,677.07,C,C3,HR Specialist,10+ years,MORTGAGE,86788.0,Verified,Sep-2015,Fully Paid,debt_consolidation,Debt consolidation,16.31,Jan-2005,8.0,0.0,25757.0,100.6,23.0,f,INDIVIDUAL,4.0,0.0,"1726 Cooper Passage Suite 129
+North Deniseberg, DE 30723"
+18000.0, 36 months,5.32,542.07,A,A1,Software Development Engineer,2 years,MORTGAGE,125000.0,Source Verified,Sep-2015,Fully Paid,home_improvement,Home improvement,1.36,Aug-2005,8.0,0.0,4178.0,4.9,25.0,f,INDIVIDUAL,3.0,0.0,"1008 Erika Vista Suite 748
+East Stephanie, TX 22690"
+13000.0, 36 months,11.14,426.47,B,B2,Office Depot,10+ years,RENT,46000.0,Not Verified,Sep-2012,Fully Paid,credit_card,No More Credit Cards,26.87,Sep-1994,11.0,0.0,13425.0,64.5,15.0,f,INDIVIDUAL,0.0,0.0,"USCGC Nunez
+FPO AE 30723"
+18900.0, 60 months,10.99,410.84,B,B3,Application Architect,10+ years,RENT,103000.0,Verified,Oct-2014,Fully Paid,debt_consolidation,Debt consolidation,12.52,Jun-1994,13.0,0.0,18637.0,32.9,40.0,w,INDIVIDUAL,3.0,0.0,"USCGC Tran
+FPO AP 22690"
+26300.0, 36 months,16.29,928.4,C,C5,Regado Biosciences,3 years,MORTGAGE,115000.0,Verified,Apr-2012,Fully Paid,debt_consolidation,Debt Consolidation,23.69,Dec-1997,13.0,0.0,22171.0,82.4,37.0,f,INDIVIDUAL,1.0,0.0,"3390 Luis Rue
+Mauricestad, VA 00813"
+10000.0, 36 months,13.11,337.47,B,B4,Sodexo,2 years,RENT,95000.0,Verified,Jun-2013,Fully Paid,debt_consolidation,Debt Consolidation,12.04,Dec-1990,5.0,1.0,4702.0,64.4,26.0,f,INDIVIDUAL,4.0,1.0,"40245 Cody Drives
+Bartlettfort, NM 00813"
+35000.0, 36 months,14.64,1207.13,C,C3,Director Bureau of Equipment Inventory,8 years,MORTGAGE,130000.0,Verified,May-2014,Fully Paid,credit_card,Credit card refinancing,12.19,May-1984,30.0,0.0,81263.0,18.7,61.0,w,INDIVIDUAL,4.0,0.0,"3126 Sean Dale Apt. 141
+South Matthew, MS 00813"
+7500.0, 36 months,9.17,239.1,B,B2,Social Work/Care Manager,7 years,OWN,55000.0,Not Verified,Dec-2015,Fully Paid,debt_consolidation,Debt consolidation,28.21,Apr-1995,13.0,0.0,17838.0,54.9,35.0,w,JOINT,4.0,0.0,"4173 David Extension
+West Beckyfort, MS 70466"
+35000.0, 60 months,12.29,783.7,C,C1,Regional Counsel,10+ years,MORTGAGE,157000.0,Verified,Apr-2015,Fully Paid,debt_consolidation,Debt consolidation,29.39,Jan-1997,17.0,0.0,113091.0,94.9,27.0,w,INDIVIDUAL,2.0,0.0,"3343 Wells Mews
+Shellychester, OR 29597"
+25975.0, 36 months,6.62,797.53,A,A2,Pullman Regional Hospital,9 years,MORTGAGE,65000.0,Verified,Oct-2012,Fully Paid,small_business,Business,9.18,May-2001,9.0,0.0,5140.0,7.2,35.0,f,INDIVIDUAL,6.0,0.0,"0472 Weber Manors Apt. 660
+Lake Andrew, NH 29597"
+18000.0, 36 months,8.39,567.3,A,A5,firefighter,8 years,MORTGAGE,45000.0,Not Verified,Jul-2014,Fully Paid,major_purchase,Major purchase,12.81,Sep-1994,5.0,0.0,551.0,11.7,23.0,w,INDIVIDUAL,4.0,0.0,"11629 Sean Hills Suite 614
+Stevenfort, HI 30723"
+32350.0, 60 months,21.98,893.11,E,E4,Comcast Corporate office,10+ years,MORTGAGE,72000.0,Verified,Feb-2013,Fully Paid,debt_consolidation,Debt consolidation,18.08,Mar-1982,16.0,0.0,23603.0,78.4,22.0,f,INDIVIDUAL,1.0,0.0,"407 Briggs Lodge Suite 778
+West Aprilborough, PA 00813"
+11200.0, 60 months,12.29,250.79,C,C1,principal,10+ years,MORTGAGE,81000.0,Not Verified,Oct-2015,Fully Paid,debt_consolidation,Debt consolidation,12.87,Sep-1996,6.0,1.0,5874.0,54.9,20.0,w,INDIVIDUAL,5.0,1.0,"487 Jennifer Parkway Suite 940
+Cummingsshire, NH 30723"
+34000.0, 36 months,7.9,1063.87,A,A4,Pilot,10+ years,RENT,130580.0,Verified,Jan-2014,Fully Paid,debt_consolidation,Debt consolidation,25.4,Jan-1990,16.0,0.0,8767.0,11.9,36.0,f,INDIVIDUAL,3.0,0.0,"254 Mary Ferry
+Port Kirstenborough, CO 70466"
+20000.0, 36 months,6.97,617.27,A,A3,Registered Nurse,7 years,MORTGAGE,85000.0,Not Verified,Mar-2016,Fully Paid,debt_consolidation,Debt consolidation,18.8,Mar-2000,15.0,0.0,24195.0,55.7,38.0,w,INDIVIDUAL,1.0,0.0,"Unit 8386 Box 5821
+DPO AE 05113"
+9200.0, 36 months,6.62,282.48,A,A2,Personal Trainer,< 1 year,RENT,65000.0,Source Verified,Apr-2014,Fully Paid,debt_consolidation,Debt consolidation,10.81,Jan-2006,12.0,0.0,6448.0,22.9,23.0,w,INDIVIDUAL,0.0,0.0,"9930 Darryl Hollow Apt. 443
+Staffordmouth, CO 30723"
+7350.0, 36 months,13.11,248.05,B,B4,Francis Howell School District,10+ years,MORTGAGE,54800.0,Not Verified,Jun-2013,Fully Paid,debt_consolidation,Debt Consolidation/Home Repairs,7.47,Mar-1999,10.0,0.0,3240.0,37.2,36.0,f,INDIVIDUAL,6.0,0.0,"0224 Kenneth Junctions
+Bradystad, SD 05113"
+4200.0, 36 months,6.99,129.67,A,A3,midstate steel llc,5 years,OWN,24000.0,Not Verified,Jun-2011,Fully Paid,other,kawasaki jetski,4.8,Oct-2006,6.0,0.0,0.0,0.0,7.0,f,INDIVIDUAL,,0.0,"54395 Melissa Walks
+Jenniferbury, AL 05113"
+20000.0, 36 months,8.39,630.34,A,A5,Office Manager,10+ years,OWN,55000.0,Source Verified,Oct-2014,Fully Paid,debt_consolidation,Debt consolidation,9.23,Jan-2003,9.0,0.0,21497.0,43.9,18.0,f,INDIVIDUAL,5.0,0.0,"32520 Shawn Radial Suite 404
+South Tamarafort, FL 22690"
+5000.0, 36 months,15.61,174.83,D,D1,Operations Manager,5 years,RENT,75000.0,Verified,Sep-2015,Fully Paid,vacation,Vacation,13.58,May-2008,9.0,0.0,3120.0,19.1,26.0,f,INDIVIDUAL,0.0,0.0,"25722 Horn Harbor
+Lauraville, VA 30723"
+6000.0, 36 months,11.36,197.47,B,B5,CSU Monterey Bay,2 years,RENT,46680.0,Not Verified,Apr-2010,Charged Off,medical,Medical and Post Graduate Education Expenses,6.56,Oct-2003,9.0,0.0,4370.0,40.1,10.0,f,INDIVIDUAL,,0.0,"44130 Powers Course Suite 880
+East Preston, AZ 30723"
+8400.0, 36 months,13.35,284.45,C,C2,Bartender,6 years,RENT,35000.0,Source Verified,Jun-2014,Charged Off,debt_consolidation,Debt consolidation,23.08,Jun-2004,6.0,0.0,6953.0,74.8,17.0,f,INDIVIDUAL,0.0,0.0,"Unit 3166 Box 1862
+DPO AE 48052"
+23050.0, 36 months,12.12,766.92,B,B3,Anheuser-Busch ,3 years,RENT,80000.0,Verified,Apr-2013,Fully Paid,debt_consolidation,Credit card debt,25.47,Jan-1999,18.0,0.0,26693.0,24.6,23.0,w,INDIVIDUAL,0.0,0.0,"5105 Madison Glen Apt. 955
+Charlesport, WI 05113"
+15000.0, 36 months,9.99,483.94,B,B1,Teacher,10+ years,MORTGAGE,79000.0,Verified,Oct-2013,Fully Paid,debt_consolidation,concolidation,17.27,Apr-1994,13.0,0.0,13658.0,56.7,25.0,f,INDIVIDUAL,2.0,0.0,"10747 Jennifer Lights
+East Graceburgh, NC 05113"
+20000.0, 36 months,8.19,628.49,A,A5,Sr. Business Analyst,10+ years,MORTGAGE,87000.0,Source Verified,Nov-2014,Fully Paid,debt_consolidation,Debt consolidation,15.32,Mar-2000,15.0,0.0,26330.0,56.1,29.0,w,INDIVIDUAL,6.0,0.0,"955 Tapia Circles Apt. 754
+Port Antonio, IN 48052"
+13200.0, 36 months,18.75,482.2,D,D3,"Medtronic, Inc.",10+ years,RENT,71000.0,Source Verified,May-2013,Fully Paid,other,Consolidation Loan,29.54,Apr-1998,9.0,0.0,30464.0,72.4,35.0,f,INDIVIDUAL,4.0,0.0,"19223 Laurie Causeway Apt. 914
+Barryton, MO 48052"
+4600.0, 36 months,12.29,153.43,C,C1,Stocker,5 years,RENT,29400.0,Not Verified,Feb-2015,Fully Paid,credit_card,Credit card refinancing,29.63,Jul-2007,12.0,0.0,10112.0,65.7,17.0,w,INDIVIDUAL,0.0,0.0,"054 Adam Mission Suite 172
+South Mitchell, WI 70466"
+3000.0, 36 months,6.03,91.31,A,A1,American Heart Association,1 year,OWN,64000.0,Source Verified,Oct-2011,Fully Paid,credit_card,Consolidate debt,3.81,Apr-2002,6.0,0.0,4912.0,13.4,18.0,f,INDIVIDUAL,,0.0,"2722 Smith Branch Suite 131
+Shaunbury, NH 22690"
+20000.0, 36 months,12.29,667.06,C,C1,Senior Software Engineer,3 years,RENT,95000.0,Source Verified,Jun-2015,Fully Paid,debt_consolidation,Debt consolidation,11.82,Oct-2007,11.0,0.0,16498.0,54.1,17.0,f,INDIVIDUAL,0.0,0.0,"USNV Trujillo
+FPO AA 30723"
+12725.0, 36 months,14.99,441.06,C,C5,dealer,10+ years,RENT,43000.0,Not Verified,Jun-2014,Fully Paid,debt_consolidation,Debt consolidation,28.8,Jun-2004,10.0,0.0,10264.0,71.3,16.0,w,INDIVIDUAL,0.0,0.0,"85164 Michael Overpass Suite 653
+Lancechester, SD 30723"
+5375.0, 36 months,13.11,181.39,B,B4,,,RENT,34000.0,Verified,May-2013,Fully Paid,credit_card,Pay Off Credit Card,26.12,Apr-1998,9.0,1.0,14998.0,88.7,20.0,f,INDIVIDUAL,5.0,1.0,"23617 Michael Viaduct
+West John, MS 05113"
+3250.0, 36 months,16.78,115.52,C,C5,,,RENT,22500.0,Verified,Aug-2013,Charged Off,debt_consolidation,Cover,18.76,Jun-2009,7.0,0.0,7587.0,54.6,7.0,f,INDIVIDUAL,0.0,0.0,"361 Erica Forest
+Lake Mariaton, TN 30723"
+15000.0, 36 months,13.67,510.27,B,B5,facility technician,10+ years,MORTGAGE,90000.0,Not Verified,Oct-2013,Fully Paid,debt_consolidation,Making a difference,21.44,May-1997,10.0,0.0,4707.0,52.3,40.0,w,INDIVIDUAL,2.0,0.0,"974 Wood Squares
+West Stevenfurt, KS 05113"
+15000.0, 36 months,13.35,507.95,C,C2,Housekeeper,7 years,RENT,52000.0,Verified,Jun-2014,Fully Paid,credit_card,Credit card refinancing,11.68,Jul-2006,13.0,0.0,18391.0,60.7,21.0,w,INDIVIDUAL,0.0,0.0,"76019 Young Motorway Suite 134
+New Heatherland, DE 00813"
+10800.0, 36 months,13.98,369.02,C,C3,Shift Supervisor,4 years,RENT,51840.0,Source Verified,Oct-2014,Fully Paid,credit_card,Credit card refinancing,25.6,Sep-2003,11.0,0.0,15727.0,82.8,22.0,w,INDIVIDUAL,1.0,0.0,"PSC 5108, Box 2953
+APO AP 05113"
+35000.0, 60 months,16.99,869.66,D,D1,,4 years,MORTGAGE,130000.0,Verified,Feb-2014,Fully Paid,debt_consolidation,Debt consolidation,14.03,Aug-1992,10.0,0.0,34130.0,53.8,27.0,f,INDIVIDUAL,10.0,0.0,"8268 Reed Gardens Suite 996
+East Johnmouth, ND 05113"
+28000.0, 60 months,19.91,312.04,E,E4,American Airlines,10+ years,RENT,52000.0,Verified,Dec-2011,Charged Off,debt_consolidation,Debt Consalidation,20.7,Dec-1988,10.0,0.0,29178.0,87.6,16.0,f,INDIVIDUAL,,0.0,"5836 Garcia Falls Apt. 525
+Matthewtown, CT 22690"
+21000.0, 60 months,17.86,531.67,D,D5,laborer,2 years,MORTGAGE,80000.0,Source Verified,Dec-2015,Fully Paid,debt_consolidation,Debt consolidation,15.67,Feb-2002,15.0,0.0,4189.0,13.0,35.0,w,INDIVIDUAL,1.0,0.0,"419 James Branch
+Johnsonmouth, WY 70466"
+8400.0, 36 months,12.12,279.49,B,B3,Vegas.com,10+ years,RENT,120000.0,Verified,Mar-2013,Fully Paid,debt_consolidation,Debt consolidation,29.56,Jan-1992,11.0,0.0,28739.0,71.3,34.0,f,INDIVIDUAL,6.0,0.0,"976 Smith Bridge
+West Michael, NE 30723"
+11950.0, 60 months,16.29,292.45,D,D2,labor,10+ years,RENT,30000.0,Source Verified,Oct-2014,Fully Paid,debt_consolidation,Debt consolidation,13.73,Aug-2001,6.0,0.0,2975.0,51.3,15.0,w,INDIVIDUAL,1.0,0.0,"0062 Stephanie Well Suite 269
+Riveratown, TX 48052"
+6700.0, 36 months,21.49,254.12,D,D5,Home attendant ,< 1 year,RENT,21000.0,Verified,Jun-2016,Fully Paid,debt_consolidation,Debt consolidation,10.86,Dec-2010,15.0,0.0,5832.0,14.7,21.0,w,INDIVIDUAL,0.0,0.0,"PSC 7168, Box 4065
+APO AA 22690"
+16000.0, 36 months,12.99,539.03,B,B5,Payroll Manager,10+ years,MORTGAGE,78000.0,Source Verified,Mar-2014,Fully Paid,debt_consolidation,Debt consolidation,23.31,Oct-1999,15.0,0.0,18863.0,75.2,23.0,f,INDIVIDUAL,2.0,0.0,"62323 Christopher Forges Apt. 968
+Cindyview, RI 00813"
+20000.0, 36 months,13.67,680.36,B,B5,Litigation Paralegal,10+ years,MORTGAGE,64000.0,Verified,Nov-2013,Fully Paid,debt_consolidation,Thank you for your help!,21.91,Sep-2004,18.0,0.0,28236.0,51.3,37.0,w,INDIVIDUAL,3.0,0.0,"57769 John Via Suite 037
+Stephaniehaven, AR 48052"
+16000.0, 60 months,18.54,411.01,E,E1,Accountant,3 years,RENT,40000.0,Source Verified,Dec-2014,Charged Off,debt_consolidation,Debt consolidation,37.26,Sep-2003,16.0,0.0,13179.0,55.6,20.0,w,INDIVIDUAL,0.0,0.0,"76010 Houston Haven
+Port Keithburgh, MI 86630"
